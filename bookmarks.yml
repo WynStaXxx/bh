@@ -1,15 +1,100 @@
-Example-Collection:
-  - Bucket:
-    - Link 1: https://example.com
-    - Link 2:
-      - https://example.com
-    - Link with notes:
-      - https://example.com
-      - This is a text note
-      - Link note: https://example.com
-
-Collection with Links:
-  - static-marks:
-    - static-marks repository: https://github.com/darekkay/static-marks
-    - github-pages as template-project: https://gaerfield.github.io/static-marks-github-pages
-    - docker-template as alternative: https://github.com/gaerfield/static-marks-docker
+Personal:
+  - Tools:
+    - ✉️ Gmail: https://mail.google.com/mail/u/0/#inbox
+    - 📆 Google Calendar: https://calendar.google.com/
+    - 🛍 Shopping List: https://web.getbring.com/app/lists/0
+    - 🗃 Notion: https://notion.so
+    - 👨‍💻 GitHub: https://github.com/aerobless
+    - 📑 GitBook:
+        - https://app.gitbook.com
+        - GitBook Public View: https://wiki.sixtymeters.com/
+    - 🔧 Edit bookmarks: 
+        - https://github.com/aerobless/bookmarks/edit/master/bookmarks.yml
+        - Documentation: https://darekkay.com/static-marks/
+  - Finance:
+    - 📈 IBKR: https://ndcdyn.interactivebrokers.com/portal/#/
+    - 📉 Swissquote: https://trade.swissquote.ch/
+    - 📟 TIKR Terminal: https://app.tikr.com/markets?fid=1
+    - 💵 Stats: https://sixtymeters.duckdns.org:8123/lovelace/finances
+    - 🦋 Firefly: https://sixtymeters2.duckdns.org/firefly
+    - 🗿 Portfolio Backtester: https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults 
+  - Home Lab:
+    - 🤖 Home Assistant: 
+      - https://sixtymeters.duckdns.org:8123/lovelace/overview
+      - Beta Release Notes: https://rc.home-assistant.io/latest-release-notes/
+      - My documentation: https://sixtymeters.com/
+      - Nabu Casa Access: https://invoxf4r7fkpr9amj2z7z27bhh3jhlb6.ui.nabu.casa/lovelace/0
+      - Open Plantbook: https://open.plantbook.io/browse-db/
+    - 🎬 Plex: https://app.plex.tv/desktop/#!/
+    - 📶 Fritzbox: http://192.168.178.1/
+    - 🛠 Proxmox: https://192.168.178.2:8006/
+    - 🦫 Yunohost: https://sixtymeters2.duckdns.org/
+    - 🔂 Firefly Importer:
+      - http://localhost:8081/
+      - Start docker & run "/Users/theo/Google Drive/apps/firefly/startFireflyImporter.sh"
+    - 🕵️‍♂️ Tautulli: http://sixtymeters.duckdns.org:8181/
+    - 🐙 Octoprint: http://192.168.178.57/
+  - Entertainment:
+    - ⚡️ Energy Zürich: https://energy.ch/play/zuerich
+    - 🇨🇭 Play Suisse: https://www.playsuisse.ch/
+    - 🍿 Netflix: https://www.netflix.com/browse
+  - Shopping:
+    - 💊 ApoDiscounter: https://www.apodiscounter.de/
+    - 👖 Zalando: https://www.zalando.ch/herrenbekleidung/
+    - 🪐 Galaxus: https://www.galaxus.ch/
+    - 📡 Digitrends: https://www.digitrends.ch/
+    - 👕 Neomachi: https://neomachi.com/
+  - Discovery & News:
+    - 🏆 Product Hunt: https://www.producthunt.com/
+    - 📚 GoodBooks: https://www.goodbooks.io/
+Work:
+  - Zühlke Global:
+    - ✉️ Outlook: https://outlook.office365.com/owa/?realm=zuehlke.com
+    - 📊 Sharepoint: https://zuhlke.sharepoint.com/
+    - 📑 Confluence: https://confluence.zuehlke.com/
+    - 🎨 Miro Board: https://miro.com/app/board
+    - 🏰 Gate: https://gate.zuehlke.com/
+    - 🎯 GtmHub: https://zuhlke.gtmhub.com/#/home/
+    - 🪑 Roomz: https://my.roomz.io/
+    - 🎓 Moodle: https://moodle.zuehlke.com/
+    - ✍️ Templafy: https://zuehlke.templafy.com/library/slides
+    - 🃏 Poinz: https://poinz.herokuapp.com/
+    - 🍔 Menu ZH: https://zuhlke.sharepoint.com/:b:/r/sites/country/ch/fm/Freigegebene%20Dokumente/Men%C3%BC%20Vorlage_A4.pdf?csf=1&web=1&e=hxidcf
+  - Zühlke VPN:
+    - ⏱ Vertec: https://vertec.zuehlke.com/webapp/
+    - 👤 Insight: https://insight.zuehlke.com/
+  - Project:
+    - 📑 Confluence: https://devexkco.atlassian.net/wiki/spaces/MISNG/overview
+    - 📜 JIRA: http://jira.kessler.ch/secure/RapidBoard.jspa?rapidView=37
+    - 🗃 GIT: https://git.kessler.ch/dashboard/projects/starred
+    - 🚥 Build Monitor: http://static-web-resources-dev01.kessler.ch/dev/build-monitor-desktop.html
+    - 👩‍🎨 Figma: https://www.figma.com/
+    - 💬 Teams: https://teams.microsoft.com/
+    - 📦 Nexus: https://nexus.kessler.ch/#browse/browse
+    - 🧪 Dev01: https://misng-dev01.kessler.ch/home
+    - ☎️ 3CX: https://tel.kessler.ch:5001/webclient
+    - 👾 Dev Exchange Miro: https://miro.com/app/board/uXjVPMlNJ70=/
+    - 🤼‍♂️ Retro Miro: https://miro.com/app/board/uXjVPfjLFAg=/
+  - Education:
+    - ▶️ Pluralsight: https://app.pluralsight.com/library
+  - Resources:
+    - 💡 Retromat: https://retromat.org
+    - 📐 Text2Diagram (PlantUML): https://kroki.io/#try
+Development Resources:
+  - VR:
+    - 🕶 Oculus Dashboard: https://developer.oculus.com/manage/
+    - 🧊 Unity Game Services: https://dashboard.unity3d.com/
+    - ⚔️ bSaber: https://bsaber.com/
+  - Various Utilities:
+    - 🧾 JUnit/Surefire XML Parser: https://lotterfriends.github.io/online-junit-parser/
+  - AI:
+    - 🎨 DALL-E: https://labs.openai.com
+    - 🖼 Lexica.art: https://lexica.art/
+  - Cloud:
+    - ☁️ GCP Console: 
+        - https://console.cloud.google.com/
+        - 👟 Cloud Run: https://console.cloud.google.com/run
+        - 🧠 Compute: https://console.cloud.google.com/compute/instances
+        - 💽 SQL: https://console.cloud.google.com/sql/instances
+        - 🧯 Firewall: https://console.cloud.google.com/networking/firewalls/list
+        - 💸 Billing: https://console.cloud.google.com/billing
